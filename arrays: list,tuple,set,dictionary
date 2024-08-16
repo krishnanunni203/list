@@ -1,0 +1,41 @@
+list
+
+to add a number
+
+a=[1,2,3,4,5]
+a.append(11)
+print(a)
+
+to insert at a specific portion(zeroth positionil 11 insert akkum)
+
+a=[1,2,3,4,5]
+a.insert(0,11)
+print(a)      
+
+
+to remove an element( oth index ullath remove avum that is 1)
+
+a=[1,2,3,4,5]
+a.pop(0)
+print(a)
+
+a.pop()  ingane matram koduth last index value matram delete akum
+
+
+
+Merge 2 list
+
+a=[1,2,3,4,5]
+b=[6,7]
+a.extend(b)
+print(a)
+
+
+
+dictionary
+
+a={
+    "name" : "balu"
+}
+print(a)
+
